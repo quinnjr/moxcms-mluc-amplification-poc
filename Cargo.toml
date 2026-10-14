@@ -1,0 +1,9 @@
+[package]
+name = "moxcms-mluc-amplification"
+version = "0.1.0"
+edition = "2021"
+publish = false
+
+[dependencies]
+# Reproduces on the current release; pin to compare versions.
+moxcms = "=0.9.1"
